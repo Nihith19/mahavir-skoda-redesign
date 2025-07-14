@@ -34,7 +34,7 @@ Include [Mahavir Skoda.zip](https://github.com/user-attachments/files/21209814/M
 
 ## 🔗 Figma Design Link
 
-[Figma Link →](https://www.figma.com/proto/34Bswpt6orA4cf8rDmnnuk/Mahavir-skoda?page-id=142%3A3001&node-id=142-3002&viewport=292%2C140%2C0.12&t=xWbuDCKlSMyDK8sn-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=142%3A3002)
+👉 [View Full Design on Figma](https://www.figma.com/proto/34Bswpt6orA4cf8rDmnnuk/Mahavir-skoda?page-id=142%3A3001&node-id=142-3002&viewport=292%2C140%2C0.12&t=xWbuDCKlSMyDK8sn-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=142%3A3002)
 
 ## 👨‍🎨 Designed By
 
